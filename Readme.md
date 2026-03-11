@@ -11,6 +11,10 @@
     </span>
   </h2>
 
+  <a href="https://aminjafari.me">
+      <img src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Faminjafari.me-00C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000" alt="Portfolio">
+    </a>
+
   <p>
     📍 <strong>Yerevan, Armenia</strong> &nbsp;&nbsp;&nbsp;
     📞 <a href="tel:+37493889073" style="color:#00FF9F; text-decoration:none;"><strong>+374 93889073</strong></a> &nbsp;&nbsp;&nbsp;
