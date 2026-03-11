@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Hero Banner (Upload your own beautiful banner.png to this repo for this to show) -->
-  <img src="https://github.com/aminjafari-dev/aminjafari-dev/blob/main/banner.png?raw=true" alt="Amin Jafari - Senior Software Engineer" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,255,150,0.2);">
+  <img src="https://github.com/aminjafari-dev/aminjafari-dev/blob/main/banner.jpeg?raw=true" alt="Amin Jafari - Senior Software Engineer" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,255,150,0.2);">
 
   <h1>👋 Hi there, I'm Amin Jafari</h1>
   
