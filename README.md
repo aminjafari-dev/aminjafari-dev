@@ -22,7 +22,7 @@
     <a href="https://linkedin.com/in/aminjafari-dev">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://stackoverflow.com/users/aminjafari-dev">
+    <a href="https://stackoverflow.com/users/19699656/aminjafari-dev">
       <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
     </a>
     <a href="https://github.com/aminjafari-dev">
